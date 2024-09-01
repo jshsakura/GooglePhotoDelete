@@ -1,4 +1,4 @@
-# GooglePhotoDelete
+# Google Photo Delete Script
 Google Photo delete Script (only en interface https://photos.google.com/?hl=en)
 
 ## How to Use the Google Photos Deletion Script
